@@ -1,17 +1,15 @@
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
+        
 }
 
 .row-content {
-    margin: 0px auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height: 400px;
+   padding-left: 10%
 }
 
 .footer {
-    background-color:darkgray;
+    background-color: #D0C4E8;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -21,6 +19,7 @@
     margin: 0px auto;
     background: #9575CD;
     color: floralwhite;
+    width: 0px auto;
 }
 
 .address {
@@ -28,3 +27,22 @@
     margin: 0px;
     color: #0f0f0f;
 }
+.space {
+    padding-top: 5%;
+    border-top: 1px brown;
+}
+
+.sp2 {
+    border-top: 1px brown; 
+    padding-top: 5%;
+
+}
+.contain {
+    padding-right: 52px;
+}
+
+.sp3 {
+    
+    padding-bottom: 10%;
+}
+
